@@ -1,24 +1,6 @@
-# deneme_1
+# Todo App
 
-## Project setup
-```
-npm install
-```
+Vue app created by following Vue JS Crash Course by Traversy Media (https://www.youtube.com/watch?v=Wy9q22isx3U)
+For the mock rest api calls JsonPlaceHolder was used (https://jsonplaceholder.typicode.com)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
